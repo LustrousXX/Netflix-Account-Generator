@@ -27,6 +27,8 @@ Download the file needed in the files tab that i have added. Have python install
 ![image](https://user-images.githubusercontent.com/106864544/171997576-3c40b964-a1fb-40f3-adc6-9350adc82bd1.png)
 
   or
+  
+  
 `$ git clone https://github.com/LustrousXX/Netflix-Account-Generator/`
 `$ python -m pip install -r requirements.txt`
 `$ python3 netflix.py`
