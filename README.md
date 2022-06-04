@@ -24,7 +24,12 @@ Preview of the tool to generate accounts. Has 3 options of proxies type.
 
 
 Download the file needed in the files tab that i have added. Have python installed and add to path. Run the setup.bat and then run.bat and it will run
+
+
 ![image](https://user-images.githubusercontent.com/106864544/171997576-3c40b964-a1fb-40f3-adc6-9350adc82bd1.png)
+
+
+
 
   or
   
