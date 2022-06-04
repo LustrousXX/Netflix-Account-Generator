@@ -14,6 +14,8 @@ This was made using proxies and requires nothing but python and proxies.
 
 
 ![image](https://user-images.githubusercontent.com/106864544/171997856-0af9bf9e-9d6b-4fc2-a285-2355fc06e541.png)
+![image](https://user-images.githubusercontent.com/106864544/171997894-1e4e1af9-81e6-4d8b-8181-147313fc750d.png)
+
 Preview of the tool to generate accounts. Has 3 options of proxies type.
 
 
